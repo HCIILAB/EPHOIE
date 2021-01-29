@@ -14,7 +14,7 @@ The EPHOIE Dataset contains 1,494 images with 15,771 annotated text instances. T
 
 ![image](https://github.com/HCIILAB/EPHOIE/blob/main/example.png)
 
-To the best of our knowledge, the EPHOIE benchmark is the first public dataset for both OCR and VIE tasks in Chinese and aims to motivate more advanced works in the fields of both document intelligence and VIE. It is divided into a training set with 1,183 images and a testing set with 311 images respectively. All the images in EPHOIE are collected and scanned from real examination papers of various schools with the diversity of text types and layout distribution. The statistic of our dataset and the comparison with the most widely used public benchmark SROIE are shown in Table 1.
+To the best of our knowledge, the EPHOIE benchmark is the first public dataset for both OCR and VIE tasks in Chinese and aims to motivate more advanced works in the fields of both document intelligence and VIE. It is divided into a training set with 1,183 images and a testing set with 311 images respectively. All the images in EPHOIE are collected and scanned from real examination papers of various schools with the diversity of text types and layout distribution. For privacy protection, we erase and re-synthesize some specific fields like names and schools. The statistic of our dataset and the comparison with the most widely used public benchmark SROIE are shown in Table 1.
 
 ![image](https://github.com/HCIILAB/EPHOIE/blob/main/compare.png)
 
