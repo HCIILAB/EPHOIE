@@ -12,15 +12,15 @@ For any person/institute/company who do not works in the field of OCR or documen
 
 The EPHOIE Dataset contains 1,494 images with 15,771 annotated text instances. The images are collected and scanned from real examination papers of various schools in China, and we crop the paper head regions which contains all key information. The texts are composed of handwritten and printed Chinese characters in horizontal and arbitrary quadrilateral shape. Complex layouts and noisy background also enhance the generalization of EPHOIE dataset. Typical examples are shown in Figure 1.
 
-![image](https://github.com/HCIILAB/EPHOIE/tree/master/example.png)
+![image](https://github.com/HCIILAB/EPHOIE/blob/main/example.png)
 
 To the best of our knowledge, the EPHOIE benchmark is the first public dataset for both OCR and VIE tasks in Chinese and aims to motivate more advanced works in the fields of both document intelligence and VIE. It is divided into a training set with 1,183 images and a testing set with 311 images respectively. All the images in EPHOIE are collected and scanned from real examination papers of various schools with the diversity of text types and layout distribution. The statistic of our dataset and the comparison with the most widely used public benchmark SROIE are shown in Table 1.
 
-![image](https://github.com/HCIILAB/EPHOIE/tree/master/compare.png)
+![image](https://github.com/HCIILAB/EPHOIE/blob/main/compare.png)
 
 The detailed annotation forms of EPHOIE are presented in Figure 2. As there exist both horizontal and arbitrary quadrilateral texts, four vertices were required to surround them. In addition to annotating bounding boxes for text detection, text content is also required for both text recognition and information extraction. We annotate all the texts appearing on the image, while additionally label the entity key-value pair for all key information. The number string in Entity denotes the category of each token, since there may exists multiple entities in a single segment.
 
-![image](https://github.com/HCIILAB/EPHOIE/tree/master/anno.png)
+![image](https://github.com/HCIILAB/EPHOIE/blob/main/anno.png)
 
 ## Citation and Contact
 Please consider to cite our paper when you use our dataset:
