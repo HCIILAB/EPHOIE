@@ -23,7 +23,7 @@ The detailed annotation forms of EPHOIE are presented in Figure 2. As there exis
 ![image](https://github.com/HCIILAB/EPHOIE/blob/main/anno.png)
 
 ## Citation and Contact
-Please consider to cite our paper when you use our dataset:
+Please consider to cite [our paper](https://github.com/HCIILAB/EPHOIE/blob/main/AAAI2021_Towards%20Robust%20Visual%20Information%20Extraction%20in%20Real%20World%20New%20Dataset%20and%20Novel%20Solution.pdf) when you use our dataset:
 ```
 @inproceedings{wang2021vies,
   title={Towards Robust Visual Information Extraction in Real World: New Dataset and Novel Solution},
