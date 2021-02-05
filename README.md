@@ -2,7 +2,7 @@
 
 The EPHOIE Dataset for the research of **optical character recognition (OCR)** and **visual information extraction (VIE)** in educational documents is now released by Deep Leaning and Visual Computing (DLVC) Lab of South China University of Technology. The dataset can be downloaded through the following link:
 
-- [OneDrive](https://1drv.ms/u/s!Ahd-h7H5akVZb9YHpoFMnH3A71s?e=w6dnom) 
+- [OneDrive](https://1drv.ms/u/s!Ahd-h7H5akVZcM97rDSpAGTIgz4?e=dgLl5C) 
 
 Note: The EPHOIE dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the EPHOIE database, please first fill in this [Application Form](https://github.com/HCIILAB/EPHOIE/blob/main/Application_Form_for_Using_EPHOIE_2021.doc) and send it via email to us (eelwjin@scut.edu.cn, or lianwen.jin@gmail.com). When submiting the application form to us, please list or attached 1-2 of your publications in recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, handwriting analysis and recognition, document image processing, visual information extraction. At present, this dataset is only freely open to scholars in the above-mentioned fields. We will give you the decompression password after your letter has been received and approved. 
 
