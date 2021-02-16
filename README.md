@@ -1,4 +1,4 @@
-# EPHOIE_Dataset_Release
+# EPHOIE_Dataset_Release [[Paper Link](https://arxiv.org/abs/2102.06732)]
 
 The EPHOIE Dataset for the research of **optical character recognition (OCR)** and **visual information extraction (VIE)** in educational documents is now released by Deep Leaning and Visual Computing (DLVC) Lab of South China University of Technology. The dataset can be downloaded through the following link:
 
@@ -23,7 +23,7 @@ The detailed annotation forms of EPHOIE are presented in Figure 2. As there exis
 ![image](https://github.com/HCIILAB/EPHOIE/blob/main/anno.png)
 
 ## Citation and Contact
-Please consider to cite [our paper](https://github.com/HCIILAB/EPHOIE/blob/main/AAAI2021_Towards%20Robust%20Visual%20Information%20Extraction%20in%20Real%20World%20New%20Dataset%20and%20Novel%20Solution.pdf) when you use our dataset:
+Please consider to cite [our paper](https://arxiv.org/abs/2102.06732) when you use our dataset:
 ```
 @inproceedings{wang2021vies,
   title={Towards Robust Visual Information Extraction in Real World: New Dataset and Novel Solution},
