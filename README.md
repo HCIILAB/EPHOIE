@@ -4,7 +4,25 @@ The EPHOIE Dataset for the research of **optical character recognition (OCR)** a
 
 - [OneDrive](https://1drv.ms/u/s!Ahd-h7H5akVZcM97rDSpAGTIgz4?e=dgLl5C) 
 
-Note: The EPHOIE dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the EPHOIE database, please first fill in this [Application Form](https://github.com/HCIILAB/EPHOIE/blob/main/Application_Form_for_Using_EPHOIE_2021.doc) and send it via email to us (eelwjin@scut.edu.cn, or lianwen.jin@gmail.com). When submiting the application form to us, please list or attached 1-2 of your publications in recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, handwriting analysis and recognition, document image processing, visual information extraction. At present, this dataset is only freely open to scholars in the above-mentioned fields. We will give you the decompression password after your letter has been received and approved. 
+The SCUT-EnsText dataset can only be used for **non-commercial research purpose**. Trainging set and testing set are available now, but the training set is encrypted with additional code. To request access, please follow these steps:
+
+**Step 1: Download and complete the agreement document:**
+
+- [Application Form for Using EPHOIE](https://github.com/HCIILAB/EPHOIE/blob/main/Application_Form_for_Using_EPHOIE_2021.doc)
+
+Have this document signed and stamped by your institution. Please also prepare 1–2 recent publications (within the last 6 years) as evidence that you or your team conduct research in OCR, handwriting analysis and recognition, document image processing, visual information extraction.
+
+**Step 2: Submit your application online:**
+
+> 🔗 **[SCUT DLVC Lab Dataset Access Portal → Apply for EPHOIE](http://121.41.49.212:9000/apply/ephoie)**
+
+Upload both signed documents through the portal and fill out the "Recent Publications" block. Your application will be reviewed manually and you will be notified by email once a decision has been made (typically within 1–5 business days).
+
+**Step 3: Download the dataset:**
+
+After approval, you will receive the download link and decompression password via email.
+
+> ⚠️ All users must comply with the use conditions at all times; failure to do so will result in revocation of access.
 
 For any person/institute/company who do not works in the field of OCR or document analysis and visual information extraction, please contact us to obtain a commercial license. 
 
